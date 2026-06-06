@@ -1,0 +1,8 @@
+emotion,accuracy,samples
+happy,0.0,22
+sad,0.0,44
+angry,0.0,20
+neutral,1.0,95
+fear,0.0,19
+surprise,0.0,0
+disgust,0.0,0
